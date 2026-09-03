@@ -1,0 +1,60 @@
+name: NSE Analyst Ratings & Price Target Scanner
+
+on:
+  schedule:
+    # Three checks a day, Mon-Fri (IST -> UTC, IST = UTC+5:30). Times are
+    # nudged off round numbers on purpose -- GitHub's own docs warn that
+    # scheduled workflows are "best effort" and can be delayed or dropped
+    # entirely during high load, and load peaks exactly at round times.
+    # ~9:47 AM IST (04:17 UTC) -- morning check.
+    # ~1:03 PM IST  (07:33 UTC) -- midday check.
+    # ~4:07 PM IST  (10:37 UTC) -- after-close check, catches reports
+    # published once the market has settled for the day.
+    - cron: "17 4 * * 1-5"
+    - cron: "33 7 * * 1-5"
+    - cron: "37 10 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nse-analyst-scanner
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    # This bot fetches analyst data per-ticker (not batchable like price
+    # bars), so a full run over a few hundred stocks takes noticeably
+    # longer than the other bots -- generous timeout accordingly.
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ hashFiles('requirements.txt') }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scanner
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py
+
+      - name: Commit updated alert state
+        run: |
+          git config user.name "nse-analyst-bot"
+          git config user.email "actions@github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "Update alert state [skip ci]"
+          git push
