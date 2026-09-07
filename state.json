@@ -477,7 +477,7 @@
   },
   "BRIGADE.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 775.1
+    "prev_target_mean": 783.5
   },
   "BRITANNIA.NS": {
     "seen_rating_keys": [],
@@ -581,7 +581,7 @@
   },
   "CENTURYPLY.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 894.75
+    "prev_target_mean": 893.25
   },
   "CERA.NS": {
     "seen_rating_keys": [],
@@ -741,7 +741,7 @@
   },
   "LALPATHLAB.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1949.2307
+    "prev_target_mean": 1951.7307
   },
   "DRREDDY.NS": {
     "seen_rating_keys": [],
@@ -877,7 +877,7 @@
   },
   "FORTIS.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1115.8
+    "prev_target_mean": 1112.3
   },
   "UTLSOLAR.NS": {
     "seen_rating_keys": [],
@@ -1193,7 +1193,7 @@
   },
   "IOC.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 160.06451
+    "prev_target_mean": 160.22581
   },
   "IRCTC.NS": {
     "seen_rating_keys": [],
@@ -1561,7 +1561,7 @@
   },
   "MANAPPURAM.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 372.14285
+    "prev_target_mean": 374.66666
   },
   "MRPL.NS": {
     "seen_rating_keys": [],
@@ -1685,7 +1685,7 @@
   },
   "NTPC.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 431.5862
+    "prev_target_mean": 431.48276
   },
   "NH.NS": {
     "seen_rating_keys": [],
@@ -2253,7 +2253,7 @@
   },
   "SUPREMEIND.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 3951.138
+    "prev_target_mean": 3954.4827
   },
   "SPLPETRO.NS": {
     "seen_rating_keys": [],
@@ -2473,7 +2473,7 @@
   },
   "ULTRACEMCO.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 13906.757
+    "prev_target_mean": 13928.378
   },
   "UNIONBANK.NS": {
     "seen_rating_keys": [],
@@ -2549,7 +2549,7 @@
   },
   "IDEA.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 11.85955
+    "prev_target_mean": 11.88455
   },
   "VOLTAMP.NS": {
     "seen_rating_keys": [],
@@ -2625,10 +2625,14 @@
   },
   "ZYDUSWELL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 614.4286
+    "prev_target_mean": 618.875
   },
   "ECLERX.NS": {
     "seen_rating_keys": [],
     "prev_target_mean": 1943.7
+  },
+  "V2RETAIL.NS": {
+    "seen_rating_keys": [],
+    "prev_target_mean": 275.0
   }
 }
