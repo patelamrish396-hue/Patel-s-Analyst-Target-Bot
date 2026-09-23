@@ -21,7 +21,7 @@
   },
   "AIAENG.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 4787.857
+    "prev_target_mean": 4847.385
   },
   "APLAPOLLO.NS": {
     "seen_rating_keys": [],
@@ -69,7 +69,7 @@
   },
   "ACUTAAS.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 3219.6
+    "prev_target_mean": 3316.2222
   },
   "ADANIENSOL.NS": {
     "seen_rating_keys": [],
@@ -241,7 +241,7 @@
   },
   "ARVIND.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 647.4286
+    "prev_target_mean": 646.2857
   },
   "ASAHIINDIA.NS": {
     "seen_rating_keys": [],
@@ -321,7 +321,7 @@
   },
   "BEML.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 2101.0
+    "prev_target_mean": 2225.75
   },
   "BLS.NS": {
     "seen_rating_keys": [],
@@ -397,11 +397,11 @@
   },
   "BDL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1335.8
+    "prev_target_mean": 1335.125
   },
   "BEL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 491.53125
+    "prev_target_mean": 491.78787
   },
   "BHARATFORG.NS": {
     "seen_rating_keys": [],
@@ -413,7 +413,7 @@
   },
   "BPCL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 344.51614
+    "prev_target_mean": 345.32257
   },
   "BHARTIARTL.NS": {
     "seen_rating_keys": [],
@@ -605,7 +605,7 @@
   },
   "CHOLAFIN.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1995.5
+    "prev_target_mean": 1994.875
   },
   "CIPLA.NS": {
     "seen_rating_keys": [],
@@ -885,7 +885,7 @@
   },
   "GAIL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 194.58064
+    "prev_target_mean": 194.90323
   },
   "GVT&D.NS": {
     "seen_rating_keys": [],
@@ -957,7 +957,7 @@
   },
   "GOKEX.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 982.375
+    "prev_target_mean": 958.875
   },
   "GRANULES.NS": {
     "seen_rating_keys": [],
@@ -1045,7 +1045,7 @@
   },
   "HCG.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 806.8
+    "prev_target_mean": 816.0
   },
   "HERITGFOOD.NS": {
     "seen_rating_keys": [],
@@ -1069,7 +1069,7 @@
   },
   "HAL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 5500.5557
+    "prev_target_mean": 5516.607
   },
   "HINDCOPPER.NS": {
     "seen_rating_keys": [],
@@ -1077,7 +1077,7 @@
   },
   "HINDPETRO.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 407.48386
+    "prev_target_mean": 407.1613
   },
   "HINDUNILVR.NS": {
     "seen_rating_keys": [],
@@ -1085,7 +1085,7 @@
   },
   "HINDZINC.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 644.4
+    "prev_target_mean": 641.2857
   },
   "POWERINDIA.NS": {
     "seen_rating_keys": [],
@@ -1193,7 +1193,7 @@
   },
   "IOC.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 160.0
+    "prev_target_mean": 160.16129
   },
   "IRCTC.NS": {
     "seen_rating_keys": [],
@@ -1213,7 +1213,7 @@
   },
   "ICIL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 484.0
+    "prev_target_mean": 484.66666
   },
   "IGL.NS": {
     "seen_rating_keys": [],
@@ -1281,7 +1281,7 @@
   },
   "JKTYRE.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 496.66666
+    "prev_target_mean": 483.8
   },
   "JMFINANCIL.NS": {
     "seen_rating_keys": [],
@@ -1349,7 +1349,7 @@
   },
   "JUBLINGREA.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 967.1667
+    "prev_target_mean": 975.5
   },
   "JUBLPHARMA.NS": {
     "seen_rating_keys": [],
@@ -1377,11 +1377,11 @@
   },
   "KPRMILL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1214.2727
+    "prev_target_mean": 1216.8182
   },
   "KEI.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 5720.68
+    "prev_target_mean": 5761.75
   },
   "KNRCON.NS": {
     "seen_rating_keys": [],
@@ -1401,7 +1401,7 @@
   },
   "KAJARIACER.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1371.4075
+    "prev_target_mean": 1372.2307
   },
   "KPIL.NS": {
     "seen_rating_keys": [],
@@ -1465,7 +1465,7 @@
   },
   "LGEINDIA.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1878.7587
+    "prev_target_mean": 1882.1333
   },
   "LICHSGFIN.NS": {
     "seen_rating_keys": [],
@@ -1633,7 +1633,7 @@
   },
   "MPHASIS.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 2617.3784
+    "prev_target_mean": 2617.6487
   },
   "BECTORFOOD.NS": {
     "seen_rating_keys": [],
@@ -1789,7 +1789,7 @@
   },
   "PGEL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 690.5
+    "prev_target_mean": 691.0
   },
   "PIIND.NS": {
     "seen_rating_keys": [],
@@ -1857,7 +1857,7 @@
   },
   "PIDILITIND.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1786.3334
+    "prev_target_mean": 1783.9524
   },
   "PINELABS.NS": {
     "seen_rating_keys": [],
@@ -1953,7 +1953,7 @@
   },
   "RHIM.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 544.6667
+    "prev_target_mean": 522.5
   },
   "RITES.NS": {
     "seen_rating_keys": [],
@@ -2001,7 +2001,7 @@
   },
   "RELAXO.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 401.8
+    "prev_target_mean": 407.8889
   },
   "RELIANCE.NS": {
     "seen_rating_keys": [],
@@ -2125,7 +2125,7 @@
   },
   "SHARDACROP.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1204.1666
+    "prev_target_mean": 1196.0
   },
   "SFL.NS": {
     "seen_rating_keys": [],
@@ -2193,7 +2193,7 @@
   },
   "STARHEALTH.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 644.04346
+    "prev_target_mean": 650.13635
   },
   "SBIN.NS": {
     "seen_rating_keys": [],
@@ -2201,7 +2201,7 @@
   },
   "SAIL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 179.2069
+    "prev_target_mean": 178.5
   },
   "SWSOLAR.NS": {
     "seen_rating_keys": [],
@@ -2305,7 +2305,7 @@
   },
   "TATACAP.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 405.76923
+    "prev_target_mean": 408.92856
   },
   "TATACHEM.NS": {
     "seen_rating_keys": [],
@@ -2349,7 +2349,7 @@
   },
   "TECHM.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1626.641
+    "prev_target_mean": 1626.8975
   },
   "TECHNOE.NS": {
     "seen_rating_keys": [],
@@ -2413,7 +2413,7 @@
   },
   "TITAGARH.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 984.1
+    "prev_target_mean": 986.3
   },
   "TITAN.NS": {
     "seen_rating_keys": [],
@@ -2481,7 +2481,7 @@
   },
   "UBL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1441.95
+    "prev_target_mean": 1433.6316
   },
   "UNITDSPR.NS": {
     "seen_rating_keys": [],
@@ -2513,7 +2513,7 @@
   },
   "VTL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 611.6667
+    "prev_target_mean": 612.6667
   },
   "VARROC.NS": {
     "seen_rating_keys": [],
@@ -2557,7 +2557,7 @@
   },
   "VOLTAS.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1363.4
+    "prev_target_mean": 1351.0857
   },
   "WAAREEENER.NS": {
     "seen_rating_keys": [],
@@ -2577,11 +2577,11 @@
   },
   "WELSPUNLIV.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 207.09091
+    "prev_target_mean": 206.72726
   },
   "WESTLIFE.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 548.4286
+    "prev_target_mean": 547.35
   },
   "WHIRLPOOL.NS": {
     "seen_rating_keys": [],
@@ -2633,10 +2633,14 @@
   },
   "V2RETAIL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 275.0
+    "prev_target_mean": 277.5
   },
   "PFOCUS.NS": {
     "seen_rating_keys": [],
     "prev_target_mean": 375.0
+  },
+  "HEGAM.NS": {
+    "seen_rating_keys": [],
+    "prev_target_mean": 710.0
   }
 }
