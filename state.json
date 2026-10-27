@@ -1173,7 +1173,7 @@
   },
   "INDIAMART.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 2037.3334
+    "prev_target_mean": 2074.0
   },
   "INDIANB.NS": {
     "seen_rating_keys": [],
@@ -2770,5 +2770,9 @@
   "POWERICA.NS": {
     "seen_rating_keys": [],
     "prev_target_mean": 700.0
+  },
+  "ICICILIFE.NS": {
+    "seen_rating_keys": [],
+    "prev_target_mean": 629.69696
   }
 }
