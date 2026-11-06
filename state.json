@@ -49,7 +49,7 @@
   },
   "AARTIIND.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 537.7083
+    "prev_target_mean": 536.4583
   },
   "AARTIPHARM.NS": {
     "seen_rating_keys": [],
@@ -181,7 +181,7 @@
   },
   "ARE&M.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 947.6667
+    "prev_target_mean": 911.4167
   },
   "AMBER.NS": {
     "seen_rating_keys": [],
@@ -401,7 +401,7 @@
   },
   "BEL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 490.875
+    "prev_target_mean": 490.90625
   },
   "BHARATFORG.NS": {
     "seen_rating_keys": [],
@@ -553,7 +553,7 @@
   },
   "CARBORUNIV.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1033.8334
+    "prev_target_mean": 1040.5
   },
   "CARTRADE.NS": {
     "seen_rating_keys": [],
@@ -577,7 +577,7 @@
   },
   "CDSL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1331.2
+    "prev_target_mean": 1345.5333
   },
   "CENTURYPLY.NS": {
     "seen_rating_keys": [],
@@ -649,7 +649,7 @@
   },
   "CONCOR.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 539.2143
+    "prev_target_mean": 533.5
   },
   "COROMANDEL.NS": {
     "seen_rating_keys": [],
@@ -689,7 +689,7 @@
   },
   "DOMS.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 2632.3845
+    "prev_target_mean": 2606.923
   },
   "DABUR.NS": {
     "seen_rating_keys": [],
@@ -713,7 +713,7 @@
   },
   "DEEPAKNTR.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1875.6111
+    "prev_target_mean": 1818.2222
   },
   "DELHIVERY.NS": {
     "seen_rating_keys": [],
@@ -1157,7 +1157,7 @@
   },
   "ITC.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 320.48486
+    "prev_target_mean": 319.69696
   },
   "INDGN.NS": {
     "seen_rating_keys": [],
@@ -1217,7 +1217,7 @@
   },
   "IGL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 175.14815
+    "prev_target_mean": 174.27586
   },
   "INDUSTOWER.NS": {
     "seen_rating_keys": [],
@@ -1301,7 +1301,7 @@
   },
   "JSWINFRA.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 372.35294
+    "prev_target_mean": 372.11765
   },
   "JSWSTEEL.NS": {
     "seen_rating_keys": [],
@@ -1373,7 +1373,7 @@
   },
   "JYOTICNC.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1057.75
+    "prev_target_mean": 1130.25
   },
   "KPRMILL.NS": {
     "seen_rating_keys": [],
@@ -1597,7 +1597,7 @@
   },
   "MAXHEALTH.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1139.8518
+    "prev_target_mean": 1139.3704
   },
   "MAZDOCK.NS": {
     "seen_rating_keys": [],
@@ -1617,7 +1617,7 @@
   },
   "MINDACORP.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 798.375
+    "prev_target_mean": 808.55554
   },
   "MIDHANI.NS": {
     "seen_rating_keys": [],
@@ -1693,7 +1693,7 @@
   },
   "NATIONALUM.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 401.7857
+    "prev_target_mean": 399.64285
   },
   "NAVINFLUOR.NS": {
     "seen_rating_keys": [],
@@ -1889,7 +1889,7 @@
   },
   "POWERGRID.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 315.56
+    "prev_target_mean": 312.88
   },
   "POWERMECH.NS": {
     "seen_rating_keys": [],
@@ -1937,7 +1937,7 @@
   },
   "QUESS.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 349.875
+    "prev_target_mean": 354.25
   },
   "RRKABEL.NS": {
     "seen_rating_keys": [],
@@ -1973,7 +1973,7 @@
   },
   "RAINBOW.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1686.5
+    "prev_target_mean": 1676.8572
   },
   "RALLIS.NS": {
     "seen_rating_keys": [],
@@ -2125,7 +2125,7 @@
   },
   "SHARDACROP.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1094.6
+    "prev_target_mean": 1038.6
   },
   "SFL.NS": {
     "seen_rating_keys": [],
@@ -2241,7 +2241,7 @@
   },
   "SUNTV.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 672.8182
+    "prev_target_mean": 677.5455
   },
   "SUNDARMFIN.NS": {
     "seen_rating_keys": [],
@@ -2297,7 +2297,7 @@
   },
   "TVSMOTOR.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 4644.4873
+    "prev_target_mean": 4651.1
   },
   "TANLA.NS": {
     "seen_rating_keys": [],
@@ -2461,7 +2461,7 @@
   },
   "UPL.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 667.8823
+    "prev_target_mean": 656.7059
   },
   "UTIAMC.NS": {
     "seen_rating_keys": [],
@@ -2613,7 +2613,7 @@
   },
   "ZENTEC.NS": {
     "seen_rating_keys": [],
-    "prev_target_mean": 1959.8334
+    "prev_target_mean": 1967.1666
   },
   "ZENSARTECH.NS": {
     "seen_rating_keys": [],
